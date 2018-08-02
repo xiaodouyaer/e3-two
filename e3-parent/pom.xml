@@ -8,6 +8,8 @@
   <artifactId>e3-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
+  <!--http://www.cnblogs.com/limn/p/9363416.html-->
 
   <!-- 集中定义依赖版本号 -->
   <properties>
