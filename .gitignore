@@ -1,0 +1,54 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentCategoryMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemCatMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemDescMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamItemMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderItemMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderShippingMapper.xml
+e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbUserMapper.xml
+e3-manager/e3-manager-dao/target/generated-sources/
+e3-manager/e3-manager-dao/target/maven-status/
+e3-manager/e3-manager-interface/target/generated-sources/
+e3-manager/e3-manager-interface/target/maven-status/
+e3-manager/e3-manager-pojo/target/generated-sources/
+e3-manager/e3-manager-pojo/target/maven-status/
+e3-manager/e3-manager-service/target/generated-sources/
+e3-manager/e3-manager-service/target/maven-status/
+e3-manager/e3-manager-web/target/apache-tomcat-maven-plugin/
+e3-manager/e3-manager-web/target/classes/conf/
+e3-manager/e3-manager-web/target/classes/mybatis/
+e3-manager/e3-manager-web/target/classes/spring/
+e3-manager/e3-manager-web/target/generated-sources/
+e3-manager/e3-manager-web/target/maven-status/
+e3-manager/e3-manager-web/target/tomcat/
